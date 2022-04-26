@@ -15,6 +15,8 @@ namespace PROYECTOPOLINIZADOR.Classes
         public string descripcion;
         public byte[] fotografia;
         public ClsFlores()
+        public string tipoFlor
+
         {
             this.codigo = 0;
             this.IdEspecie = 0;
