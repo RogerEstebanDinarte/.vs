@@ -11,7 +11,7 @@ namespace PROYECTOPOLINIZADOR.Classes
         public string nombre;
         public string tipo;
         public string subtipo;
-        public string subnombre;
+        public string subnomb;
 
 
         public ClsAgente()
