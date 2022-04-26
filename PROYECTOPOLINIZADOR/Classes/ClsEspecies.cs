@@ -2,7 +2,7 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-
+//Prueba
 namespace PROYECTOPOLINIZADOR.Classes
 {
     class ClsEspecies : ClsConexion
